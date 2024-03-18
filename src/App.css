@@ -1,0 +1,17 @@
+.App{
+  position: relative;
+  width: 100%;
+  height: 400vh;
+  text-align: center;
+  color: #fff;
+  font-weight: 300;
+  font-size: 4vw;
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.App h2{
+  padding-top: 15vw;
+  font-size: 8vw;
+  font-weight: 300;
+  margin: 0;
+}
